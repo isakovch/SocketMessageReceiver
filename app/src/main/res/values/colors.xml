@@ -5,4 +5,15 @@
     <color name="colorAccent">#388E3C</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorOrange">#E64A19</color>
+
+    <color name="username_0">#4DD0E1</color>
+    <color name="username_1">#EC407A</color>
+    <color name="username_2">#E64A19</color>
+    <color name="username_3">#7E57C2</color>
+    <color name="username_4">#5C6BC0</color>
+    <color name="username_5">#42A5F5</color>
+    <color name="username_6">#FF7043</color>
+    <color name="username_7">#388E3C</color>
+    <color name="username_8">#26A69A</color>
+    <color name="username_9">#AB47BC</color>
 </resources>
