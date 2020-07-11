@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Surrogate Message Receiver</string>
+    <string name="chat_empty">No messages yet…</string>
+</resources>
